@@ -1,0 +1,240 @@
+[
+    {
+        "speaker": "Crystal Dionysopoulos",
+        "title": "Opening keynote",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-1/opening-keynote",
+        "excerpt": "Opening keynote by the President of Open Source Matters.",
+        "description": "Opening keynote by the President of Open Source Matters."
+    },
+    {
+        "speaker": "Rod Martin",
+        "title": "Introduction to Joomla class",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-2/introduction-to-joomla-class",
+        "excerpt": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices.",
+        "description": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices. This class will be taught entirely in Joomla 4."
+    },
+    {
+        "speaker": "Olivier Buisard",
+        "title": "Bugs & Fun",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-2/bugs-fun",
+        "excerpt": "This session is a spin-off of the Pizza, Bugs & Fun events which used to take place pre-Covid all over the world, where Joomlers used to meet and exchange about different aspects of the Joomla project. YOU CAN be part of the fun and help improve Joomla.",
+        "description": "This session is a spin-off of the Pizza, Bugs & Fun events which used to take place pre-Covid all over the world, where Joomlers used to meet and exchange about different aspects of the Joomla project. YOU CAN be part of the fun and help improve Joomla. Besides getting your hands dirty, you will learn: For this session, you will be provided with a test site you can run patches on.However, you do need a GitHub account prior to the session. If you don't have one, please create one at GitHub.com.You are not required to attend the whole session; you can pop in and out!  Hosting for the test instances provided by Scala Hosting."
+    },
+    {
+        "speaker": "Shirat Goldstein",
+        "title": "Game your way in Joomla!",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-2/game-your-way-in-joomla",
+        "excerpt": "How to integrate Javascript GitHub open-source code into Joomla.Some hands-on code and showcasing a game's website that includes an integration of that sort.",
+        "description": "How to integrate Javascript GitHub open-source code into Joomla.Some hands-on code and showcasing a game's website that includes an integration of that sort."
+    },
+    {
+        "speaker": "Rod Martin",
+        "title": "Introduction to Joomla class (continued)",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-3/introduction-to-joomla-class",
+        "excerpt": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices.",
+        "description": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices. This class will be taught entirely in Joomla 4."
+    },
+    {
+        "speaker": "Olivier Buisard",
+        "title": "Bugs & Fun (continued)",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-3/bugs-fun-continued",
+        "excerpt": "This session is a spin-off of the Pizza, Bugs & Fun events which used to take place pre-Covid all over the world, where Joomlers used to meet and exchange about different aspects of the Joomla project. YOU CAN be part of the fun and help improve Joomla.",
+        "description": "This session is a spin-off of the Pizza, Bugs & Fun events which used to take place pre-Covid all over the world, where Joomlers used to meet and exchange about different aspects of the Joomla project. YOU CAN be part of the fun and help improve Joomla. Besides getting your hands dirty, you will learn: For this session, you will be provided with a test site you can run patches on.However, you do need a GitHub account prior to the session. If you don't have one, please create one at GitHub.com.You are not required to attend the whole session; you can pop in and out!  Hosting for the test instances provided by Scala Hosting."
+    },
+    {
+        "speaker": "Marc DECHEVRE",
+        "title": "More than 30 gems for Joomla 4 I can't live without",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-3/more-than-30-gems-for-joomla-4-i-can-t-live-without",
+        "excerpt": "There are also many extensions out there which are less known than the ones listed on the JED, for example because they are only available on Github. In this session I want to share with you my own list of those little extensions that I use on most of my Joomla 4 websites, together with a few tips & tricks.",
+        "description": "I am always very happy to pay Developers for Joomla Extensions because they deserve it. Some extensions are widely known because they are available on the Joomla! Extensions Directory™ https://extensions.joomla.org  and have excellent reviews. But there are also many gems out there which are less known, for example because they are only available on Github. In this session I want to share with you my own list of those little extensions that I use on most of my Joomla 4 websites, together with a few tips & tricks. The vast majority of these extensions are open source (in which case I encourage you to contribute!) or at least free of charge. I have gathered them in 8 themes."
+    },
+    {
+        "speaker": "Rod Martin",
+        "title": "Introduction to Joomla class (continued)",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-4/introduction-to-joomla-class",
+        "excerpt": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices.",
+        "description": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices. This class will be taught entirely in Joomla 4."
+    },
+    {
+        "speaker": "Olivier Buisard",
+        "title": "Bugs & Fun (continued)",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-4/bugs-fun-continued",
+        "excerpt": "This session is a spin-off of the Pizza, Bugs & Fun events which used to take place pre-Covid all over the world, where Joomlers used to meet and exchange about different aspects of the Joomla project. YOU CAN be part of the fun and help improve Joomla.",
+        "description": "This session is a spin-off of the Pizza, Bugs & Fun events which used to take place pre-Covid all over the world, where Joomlers used to meet and exchange about different aspects of the Joomla project. YOU CAN be part of the fun and help improve Joomla. Besides getting your hands dirty, you will learn: For this session, you will be provided with a test site you can run patches on.However, you do need a GitHub account prior to the session. If you don't have one, please create one at GitHub.com.You are not required to attend the whole session; you can pop in and out!  Hosting for the test instances provided by Scala Hosting."
+    },
+    {
+        "speaker": "Rod Martin",
+        "title": "Introduction to Joomla class (part 2)",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-5/introduction-to-joomla-class-part-2",
+        "excerpt": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices.",
+        "description": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices. This class will be taught entirely in Joomla 4."
+    },
+    {
+        "speaker": "Tim Davis",
+        "title": "SmarterThanTims",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-5/smarterthantims",
+        "excerpt": "A panel of Joomla Rockstars...",
+        "description": "Building a website in a language you're not familiar with can feel like a daunting task. But fear not! In this session, Stefan Gagner will show you the ropes and teach you how to create a multilingual Joomla website with ease. You'll leave feeling confident and ready to take on any multilingual website project! What does it take to build a successful website with over 740,000 episode plays? Join Vinnie Hebert as he shares his top Joomla extensions that helped him create the popular site ILoveOldTimeRadio.com. Learn from the hero himself and take your own Joomla site to new heights! Don't let internet and power outages slow down your Joomla site building progress. Troy Hall has a solution for you! In this session, he'll introduce you to Bearsampp, a powerful tool that allows you to work on Joomla sites offline from your own computer. Say goodbye to frustration and hello to productivity! As Joomla 3 approaches its sunset, it's time to reflect not only on the platform but also on our own lives. Join Joe Sonne and Tim Davis as they share their experiences as \"later years\" Joomlers and discuss how to achieve a better balance between Joomla and real life. Don't miss this insightful and thought-provoking session!"
+    },
+    {
+        "speaker": "Rod Martin",
+        "title": "Introduction to Joomla class (continued)",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-6/introduction-to-joomla-class-continued",
+        "excerpt": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices.",
+        "description": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices. This class will be taught entirely in Joomla 4."
+    },
+    {
+        "speaker": "Tim Davis",
+        "title": "SmarterThanTims (continued)",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-6/smarterthantims-continued",
+        "excerpt": "A panel of Joomla Rockstars...",
+        "description": "Building a website in a language you're not familiar with can feel like a daunting task. But fear not! In this session, Stefan Gagner will show you the ropes and teach you how to create a multilingual Joomla website with ease. You'll leave feeling confident and ready to take on any multilingual website project! What does it take to build a successful website with over 740,000 episode plays? Join Vinnie Hebert as he shares his top Joomla extensions that helped him create the popular site ILoveOldTimeRadio.com. Learn from the hero himself and take your own Joomla site to new heights! Don't let internet and power outages slow down your Joomla site building progress. Troy Hall has a solution for you! In this session, he'll introduce you to Bearsampp, a powerful tool that allows you to work on Joomla sites offline from your own computer. Say goodbye to frustration and hello to productivity! As Joomla 3 approaches its sunset, it's time to reflect not only on the platform but also on our own lives. Join Joe Sonne and Tim Davis as they share their experiences as \"later years\" Joomlers and discuss how to achieve a better balance between Joomla and real life. Don't miss this insightful and thought-provoking session!"
+    },
+    {
+        "speaker": "Rod Martin",
+        "title": "Introduction to Joomla class (continued)",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-7/introduction-to-joomla-class-continued",
+        "excerpt": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices.",
+        "description": "This course will help you get clear on the Joomla installation process, understand Joomla's core capabilities and most important extensions, and become familiar with Joomla configurations, functionality, and maintenance best practices. This class will be taught entirely in Joomla 4."
+    },
+    {
+        "speaker": "Nicholas Dionysopoulos",
+        "title": "Site Wars: The Phantom Menace",
+        "url": "https://jdayusa.com//sessions/session-2023/april-21/slot-1-7/site-wars-the-phantom-menace",
+        "excerpt": "Site owners are afraid their site will be brought down in an instant by a malicious actor. But fear is the path to the Dark Side. Fear leads to anger. Anger leads to hate. Hate leads to suffering. Learn how to stay safe and maintain a secure site, identifying your security priorities, putting into perspective the vulnerabilities discovered in your CMS and its software, and avoiding the common bad choices popularized by those who are afraid and don't know better.",
+        "description": "Site owners are afraid their site will be brought down in an instant by a malicious actor. But fear is the path to the Dark Side. Fear leads to anger. Anger leads to hate. Hate leads to suffering. Learn how to stay safe and maintain a secure site, identifying your security priorities, putting into perspective the vulnerabilities discovered in your CMS and its software, and avoiding the common bad choices popularized by those who are afraid and don't know better."
+    },
+    {
+        "speaker": "Rod Martin",
+        "title": "Opening",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-1/opening",
+        "excerpt": "Opening",
+        "description": ""
+    },
+    {
+        "speaker": "Nicola Galgano",
+        "title": "Panel of Executive Board Discussion",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-2/panel-of-executive-board-discussion",
+        "excerpt": "Increase participation in the Joomla project, such as developing users' most requested features, building up a strong community, and recognizing contributors.",
+        "description": "I will discuss with you ways to increase participation in our project, such as developing users' most requested features, building up a strong community, and recognizing contributors. Finally, i would like to explore how to create a sustainable environment and ensure long-term success for the project. Speakers: Philip Walton, Luca Marzo, Nicola Galgano"
+    },
+    {
+        "speaker": "Carlos Cámara",
+        "title": "Joomla 4 Developers - How to Develop Apps",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-2/joomla-4-developers-how-to-develop-apps",
+        "excerpt": "In this session we will go through all the great features Joomla offers to web developers to create awesome apps.",
+        "description": "In this session we will go through all the great features Joomla offers to web developers to create awesome apps."
+    },
+    {
+        "speaker": "Yannick Gaultier",
+        "title": "Podcasting with Joomla",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-2/podcasting-with-joomla",
+        "excerpt": "Using a Joomla custom field generated by a new extension, 4Podcast, it is now super-easy to run one (or several) fully featured podcasts from your Joomla website.",
+        "description": "Using a Joomla custom field generated by a new extension, 4Podcast, it is now super-easy to run one (or several) fully featured podcasts from your Joomla website. This can be \"just\" a podcast or, as we do at weeblr.com, combining a blog with a podcast. Providing your content as a podcast enhances your reach as the podcast can then be made available through all major podcasting platforms (Apple, Google, Spotify, Pocket Casts, iHeart, ...). Creating and maintaining a podcast is also much easier than a video blog for instance. With proper Structured Data automatically generated, this can also increase your content visibility in Google. We'll go through the main features of the extension and then quickly set up a live podcast."
+    },
+    {
+        "speaker": "Phil Walton",
+        "title": "Have your say on how the Joomla 5 website design will look and feel",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-3/have-your-say-on-how-the-joomla-5-website-design-will-look-and-feel",
+        "excerpt": "With Joomla 5 Just over 6 months away we are planning the colours, design and everything to do with the Joomla landscape.",
+        "description": "With Joomla 5 Just over 6 months away we are planning the colours, design and everything to do with the Joomla landscape.This is a session devoted to presenting early ideas and getting community feedback so we can produce an attractive, practical, accessible and fun design and build for the Joomla websites (joomla.org, community.joomla.org, developer.joomla.org) which will in turn inform the Marketing look and feel."
+    },
+    {
+        "speaker": "Kilian Valkhof",
+        "title": "Beyond responsive design: new and future media queries",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-3/beyond-responsive-design-new-and-future-media-queries",
+        "excerpt": "What responsive design means for your development workflow and how you can use these capabilities to provide a better experience for your users and truly respond to their preferences.",
+        "description": ""
+    },
+    {
+        "speaker": "Vlad Georgiev",
+        "title": "The Hosting Quo & How to Break Free From Your Hosting Provider in 2023",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-3/hosting-using-the-cloud",
+        "excerpt": "Fully Managed cloud clusters for super busy websites - global high availability at scale.",
+        "description": "1. How has the hosting industry been operating since it was born - No freedom – tied to the software/features available with a specific provider only - No multi-cloud options – tied to the infrastructure/servers of one provider only - No green hosting options with most hosting providers - Why freedom is important and the advantages of having options to choose and build your hosting solution from scratch (select cloud providers, select software, select management)   2. Top web hosting industry trends - Multi-cloud hosting - Green web hosting - Fewer data centers (traditional data centers are decreasing as people move to cloud) - Managed web hosting services - Speed and security (importance of Core Web Vitals, site optimization for speed, usability. Security – HTTPs as the norm, every important/growing website on its own server)   3. The next step in the hosting evolution - true freedom, control and flexibility. - Users voice will lead the transformation of the industry (total democracy as we did with features.spanel.io allowing users to build SPanel by voting) - From regional hosting providers to global all-in-one SaS hosting solutions "
+    },
+    {
+        "speaker": "Dan Dascalescu",
+        "title": "Adding AI-powered semantic search to your Joomla site - Google for your own data",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-4/adding-ai-powered-semantic-search-to-your-joomla-site",
+        "excerpt": "Ever wished your Joomla site could deliver Google-like search results to its users? This is now possible using open source AI-powered semantic search engines, like Weaviate.",
+        "description": "Ever wished your Joomla site could deliver Google-like search results to its users? This is now possible using open source AI-powered semantic search engines, like Weaviate. After indexing your Joomla data (text/audio/video), Weaviate can “understand” user intent in search queries and it can answer questions, returning more relevant results than simple keyboard-based searches. Weaviate is open source and can be deployed alongside your Joomla instance, or can be used as a hosted solution."
+    },
+    {
+        "speaker": "Benjamin Trenkle",
+        "title": "Let's talk Joomla 4 code",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-4/let-s-talk-joomla-4-code",
+        "excerpt": "How to migrate extensions from Joomla 3 to Joomla 4? How do different concepts work in Joomla 4?",
+        "description": "How to migrate extensions from Joomla 3 to Joomla 4? How do different concepts work in Joomla 4? In this workshop I want to show some tricks and tips and answer questions from the audience."
+    },
+    {
+        "speaker": "Eoin Oliver",
+        "title": "50 Useful Non-Joomla Tools that you can use when designing with Joomla!",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-4/50-useful-non-joomla-tools-that-you-can-use-when-designing-with-joomla",
+        "excerpt": "I'll list a load of useful tools and show people how you can use them within your Joomla! based business.",
+        "description": "I'll list a load of useful tools and show people how you can use them within your Joomla! based business. This will include things like Canva, Figma, and various other tools that are useful when designing websites from scratch. From site map creators to website flow processes, mock-ups including interactive prototypes and various time-saving tips in this process."
+    },
+    {
+        "speaker": "Joe Sonne",
+        "title": "Ideas for Joomla Business Maintenance Plans and Service Offerings",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-5/ideas-for-joomla-business-maintenance-plans-and-service-offerings",
+        "excerpt": "Joe Sonne (aka JoeJoomla) will be talking about his experience with Joomla business services, offerings, and pricing and how they have evolved for him over the years. Joe's guest in this discussion will be Karen Dunne of Maven Design Studio.",
+        "description": "Joe Sonne (aka JoeJoomla) will be talking about his experience with Joomla business services, offerings, and pricing and how they have evolved for him over the years. Joe's guest in this discussion will be Karen Dunne of Maven Design Studio. This session is for anyone that wants to gain insight from the experience of two people who have been earning their livelihood from Joomla for a good number of years. Joe will moderate this session with Karen Dunne."
+    },
+    {
+        "speaker": "Olivier Buisard",
+        "title": "Joomla 4.3, the new features",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-5/joomla-4-3-the-new-features",
+        "excerpt": "As release manager for Joomla 4.3, I have been up-close and personal with developers, testers and the Joomla team.Joomla Day USA will be the perfect time to show you what's new, what has been improved, what you can expect beyond that version.",
+        "description": "As release manager for Joomla 4.3, I have been up-close and personal with developers, testers and the Joomla team. Joomla Day USA will be the perfect time to show you what's new, what has been improved, what you can expect beyond that version."
+    },
+    {
+        "speaker": "Laura Gordon",
+        "title": "Tips and Tricks migrating from Joomla 3 to Joomla 4",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-5/tips-and-tricks-migrating-from-joomla-3-to-joomla-4",
+        "excerpt": "The migration process from Joomla 3 to Joomla 4 can be made much simpler if you follow some of these cool tips and tricks.  We will walk through a full migration during our workshops step by step.",
+        "description": "The migration process from Joomla 3 to Joomla 4 can be made much simpler if you follow some of these cool tips and tricks.  We will walk through a full migration during our workshops step by step."
+    },
+    {
+        "speaker": "Robert Jacobi",
+        "title": "Learn to Samba with Small and Medium Sized Businesses",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-6/learn-to-samba-with-small-and-medium-sized-businesses",
+        "excerpt": "Learn how to dance with your small and medium sized new and existing customers. Getting ready to master the steps of identifying the needs and providing solutions for successful small and medium sized businesses. This talk will keep you from stepping on each other's toes.",
+        "description": "Learn how to dance with your small and medium sized new and existing customers. Getting ready to master the steps of identifying the needs and providing solutions for successful small and medium sized businesses. This talk will keep you from stepping on each other's toes. 1. What to SMBs really want2. How to talk with SMBs about their needs3. Solutions for growing your business with new and existing customers"
+    },
+    {
+        "speaker": "Brian Mitchell",
+        "title": "How Healthy is Your Joomla Business?",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-6/how-healthy-is-your-joomla-business",
+        "excerpt": "We'll cover three critical areas for your business's success: crisis preparedness, financial health, and relationships within the Open Source Community. You'll learn how to create a crisis management plan that can keep your business running smoothly during unexpected events, gain insight into key financial metrics to monitor, and discover the benefits of building strong relationships within the Joomla and Open Source communities.",
+        "description": "We'll cover three critical areas for your business's success: crisis preparedness, financial health, and relationships within the Open Source Community. You'll learn how to create a crisis management plan that can keep your business running smoothly during unexpected events, gain insight into key financial metrics to monitor, and discover the benefits of building strong relationships within the Joomla and Open Source communities. By attending this talk, you'll gain practical advice and actionable strategies to help take your Joomla business to the next level."
+    },
+    {
+        "speaker": "Elisa Foltyn",
+        "title": "Yootheme Pro Workshop",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-6/yootheme-pro-workshop",
+        "excerpt": "Full Yootheme Pro Workshop Session.",
+        "description": "Full Yootheme Pro Workshop Session. Installation, setting up the theme, Sections, Rows, Elements, Dynamic Contents, Extensions. If someone wants to \"click along\" it requires a Yootheme License."
+    },
+    {
+        "speaker": "Robbie Adair",
+        "title": "Using AI to Speed up your Web Development",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-7/using-ai-to-speed-up-your-web-development",
+        "excerpt": "We'll take a look at multiple ways to use ChatGPT to speed up your website builds, from using it to give you content that looks better than Lorem Ipsum to helping you with your CSS.",
+        "description": "We'll take a look at multiple ways to use ChatGPT to speed up your website builds, from using it to give you content that looks better than Lorem Ipsum to helping you with your CSS. And, then we'll also look at using AI generated images for sites, both as main images and background images. And we'll talk about some of the things to watch out for when using AI generated assets!"
+    },
+    {
+        "speaker": "Robin Clapp",
+        "title": "Building a Business Website",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-7/building-a-business-website",
+        "excerpt": "Small Business Website, a Modern Design for all the right reasons! - it will cover 7 things every website should have (clean design, clear message, calls to action, privacy, responsive design, current content, and website maintenance). At the end, I introduce the idea of website accessibility.",
+        "description": "Small Business Website, a Modern Design for all the right reasons! - it will cover 7 things every website should have (clean design, clear message, calls to action, privacy, responsive design, current content, and website maintenance). At the end, I introduce the idea of website accessibility.  "
+    },
+    {
+        "speaker": "Elisa Foltyn",
+        "title": "Yootheme Pro Workshop (continued)",
+        "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-7/yootheme-pro-workshop",
+        "excerpt": "Full Yootheme Pro Workshop Session.",
+        "description": "Full Yootheme Pro Workshop Session. Installation, setting up the theme, Sections, Rows, Elements, Dynamic Contents, Extensions. If someone wants to \"click along\" it requires a Yootheme License."
+    }
+]

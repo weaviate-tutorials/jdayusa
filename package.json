@@ -1,0 +1,30 @@
+{
+  "name": "jdayusa",
+  "version": "1.0.0",
+  "description": "JDayUSA demo",
+  "type": "module",
+  "config": {
+    "nodeParams": "--experimental-specifier-resolution=node --loader=ts-node/esm"
+  },
+  "scripts": {
+    "parse": "node $npm_package_config_nodeParams parse.ts",
+    "ingest": "node $npm_package_config_nodeParams ingest.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "cherio": "^1.0.0-rc.2",
+    "dotenv": "^16.0.3",
+    "got": "^12.6.0",
+    "weaviate-ts-client": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "@typescript-eslint/eslint-plugin": "^5.58.0",
+    "@typescript-eslint/parser": "^5.58.0",
+    "eslint": "^8.38.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
