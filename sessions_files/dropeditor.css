@@ -1,0 +1,306 @@
+@font-face {
+	font-family: 'Drop-icomoon';
+	src:url('fonts/icomoon.eot?-8kfg6s');
+	src:url('fonts/icomoon.eot?#iefix-8kfg6s') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-8kfg6s') format('woff'),
+		url('fonts/icomoon.ttf?-8kfg6s') format('truetype'),
+		url('fonts/icomoon.svg?-8kfg6s#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="drop-"] > li:before, [class*=" drop-"] > li:before{
+	font-family: 'Drop-icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+ul.drop-bullet, ol.drop-bullet{
+  list-style:none;
+  display:inline-block;
+  
+}
+ul.drop-bullet > li, ol.drop-bullet >li {
+  clear:left;
+}
+ol.drop-bullet {
+  counter-reset: liNum;
+}
+ol.drop-bullet > li {
+  counter-increment:liNum 1;
+}
+
+ul.drop-bullet > li:before, ol.drop-bullet > li:before {
+  content:"";
+  height: 1em;
+  width: 1em;
+  font-size: 80%; 
+  line-height: 1.5em;
+  display:block;
+  float:left;
+  margin-left:-1.5em;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:100%;
+}
+ol.drop-bullet > li:before{
+  content:counter(liNum);
+  text-align:center;
+}
+
+ul.drop-pushpin li:before {
+ content: "\e600";  
+}
+ul.drop-radio-unchecked li:before {
+ content: "\e601"; 
+}
+ul.drop-cog li:before { 
+ content: "\e602"; 
+}
+ul.drop-flag li:before { 
+ content: "\e603";  
+}
+ul.drop-star li:before {
+ content: "\e604";  
+}
+ul.drop-minus li:before {
+ content: "\e605"; 
+}
+ul.drop-plus li:before { 
+ content: "\e606"; 
+}
+ul.drop-play li:before { 
+ content: "\e607";  
+}
+ul.drop-arrow-right li:before { 
+ content: "\e608";  
+}
+ul.drop-checkbox-checked li:before { 
+ content: "\e609";  
+}
+ul.drop-radio-checked li:before { 
+ content: "\e60a";  
+}
+ul.drop-checkmark li:before { 
+ content: "\e60b";  
+}
+
+ol.ol-circles {
+    list-style-type: none;
+
+    margin: 0;
+    margin-left: 4em;
+    padding: 0;
+     
+    counter-reset: li-counter;
+}
+
+ol.ol-circles > li {
+    position: relative;
+    padding-left: 0.5em;
+    min-height: 2em;
+}
+ol.ol-circles > li:before {
+    position: absolute;
+    top: 0;
+    left: -1.33em;
+    width: 1.2em;
+    height: 1.2em;
+     
+    font-size: 1em;
+    line-height: 1.2;
+    text-align: center;
+    color: #f5f5f5;
+ 
+    border: 3px solid #c5c5c5;
+    border-radius: 50%;
+    background-color: #464646;
+    content: counter(li-counter);
+    counter-increment: li-counter;
+}
+
+ol.ol-boxes {
+      counter-reset: li-counter;
+    list-style-type: none;
+
+    margin: 0;
+    margin-left: 2em;
+    padding: 0;
+     
+  
+}
+ol.ol-boxes > li{
+    position: relative;
+    padding-left: 0.5em;
+ 
+}
+ol.ol-boxes > li:before {
+    position: absolute;
+    top: 0;
+    left: -1em;
+    width: 1.2em;
+    height: 1.2em;
+     
+    font-size: 1em;
+    line-height: 1;
+    text-align: center;
+    color: #f5f5f5;
+ 
+    background-color: #464646;
+    content: counter(li-counter);
+    counter-increment: li-counter;
+}
+
+/* Drop Buttons */
+
+/* General button style (reset) */
+.dropbtn {
+	border: none;
+	font-family: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: none;
+	cursor: pointer;
+	padding: 6px 16px;
+	display: inline-block;
+	margin: 3px 6px;
+    text-decoration: none;
+	outline: none;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+a.dropbtn:hover, a.dropbtn:focus , a.dropbtn:active {
+      text-decoration: none;
+}
+.dropbtn:after {
+	content: '';
+	position: absolute;
+	z-index: -1;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+@-webkit-keyframes fillToRight {
+	to { 
+		width: 100%;
+	}
+}
+
+@-moz-keyframes fillToRight {
+	to { 
+		width: 100%;
+	}
+}
+
+@keyframes fillToRight {
+	to { 
+		width: 100%;
+	}
+}
+.cke_editable .csRow { 
+    margin-top: 5px;
+}
+.cke_editable  .csColumn {        
+    box-sizing: border-box;
+    border: 4px dashed #f1f1f1;
+}
+
+@media(max-width:480px) {
+    div.csRow div.csColumn{
+      width:100% !important;
+  }
+}
+/* Summary */
+div ul.tableOfContent {
+    background-color: #f7f7f7;
+    padding: 10px;
+    max-width: 50%;
+}
+
+ul.tableOfContent li.toc-level1 ul.tableOfContent {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+ul.tableOfContent li {
+    list-style-type: none;
+    padding: 3px;
+}
+
+ul.tableOfContent a {
+    text-decoration: none;
+}
+
+ul.tableOfContent li.toc-level1 a { 
+    font-size: 18px;
+    font-weight: bold;    
+}
+
+ul.tableOfContent li.toc-level2 a { 
+    font-size: 16px;
+    font-weight: bold;    
+}
+
+ul.tableOfContent li.toc-level3 a { 
+    font-size: 14px;
+    font-weight: normal;
+}
+
+ul.tableOfContent li.toc-level4 a { 
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.droplist  {
+    list-style-type: none;
+}
+.droplist li:before {
+    font-size: 13px;
+}
+label.dd-option-text,
+label.dd-selected-text {
+    line-height: 16px !important;
+    margin-bottom: 0px;
+}
+
+.dd-option {
+    padding: 4px 10px !important;
+}
+.dd-selected {
+     padding: 4px 10px !important;
+}
+#bulleted_icon {
+    top:10px
+}
+.dd-option-image, .dd-selected-image {
+    width: 16px;
+    height: 16px;
+}
+
+
+blockquote
+{
+        
+  background: none;
+  border-left: 5px solid #f1f1f1;
+  color: #8B8E97;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 22px;
+  padding-left: 15px;
+  padding: 10px;
+  float: left;
+}
+.cke_contents_ltr img.cke_anchor {
+    border-color: #333 !important;
+}

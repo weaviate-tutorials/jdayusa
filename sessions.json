@@ -144,14 +144,14 @@
         "title": "Beyond responsive design: new and future media queries",
         "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-3/beyond-responsive-design-new-and-future-media-queries",
         "excerpt": "What responsive design means for your development workflow and how you can use these capabilities to provide a better experience for your users and truly respond to their preferences.",
-        "description": ""
+        "description": "After a decade of responsive design, \"responsive\" no longer just means \"adapts to your screen size\". Nowadays, websites can adapt to many different user preferences, device capabilities and even situational changes.So what are these new media queries and device capabilities, and what should we do with them? Kilian explains what that means for your development workflow and how you can use these capabilities to provide a better and more accessible experience for your users where you truly respond to their preferences."
     },
     {
         "speaker": "Vlad Georgiev",
         "title": "The Hosting Quo & How to Break Free From Your Hosting Provider in 2023",
         "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-3/hosting-using-the-cloud",
         "excerpt": "Fully Managed cloud clusters for super busy websites - global high availability at scale.",
-        "description": "1. How has the hosting industry been operating since it was born - No freedom – tied to the software/features available with a specific provider only - No multi-cloud options – tied to the infrastructure/servers of one provider only - No green hosting options with most hosting providers - Why freedom is important and the advantages of having options to choose and build your hosting solution from scratch (select cloud providers, select software, select management)   2. Top web hosting industry trends - Multi-cloud hosting - Green web hosting - Fewer data centers (traditional data centers are decreasing as people move to cloud) - Managed web hosting services - Speed and security (importance of Core Web Vitals, site optimization for speed, usability. Security – HTTPs as the norm, every important/growing website on its own server)   3. The next step in the hosting evolution - true freedom, control and flexibility. - Users voice will lead the transformation of the industry (total democracy as we did with features.spanel.io allowing users to build SPanel by voting) - From regional hosting providers to global all-in-one SaS hosting solutions "
+        "description": "1. How has the hosting industry been operating since it was born - No freedom – tied to the software/features available with a specific provider only - No multi-cloud options – tied to the infrastructure/servers of one provider only - No green hosting options with most hosting providers - Why freedom is important and the advantages of having options to choose and build your hosting solution from scratch (select cloud providers, select software, select management)   2. Top web hosting industry trends - Multi-cloud hosting - Green web hosting - Fewer data centers (traditional data centers are decreasing as people move to cloud) - Managed web hosting services - Speed and security (importance of Core Web Vitals, site optimization for speed, usability. Security – HTTPs as the norm, every important/growing website on its own server)   3. The next step in the hosting evolution - true freedom, control and flexibility. - Users voice will lead the transformation of the industry (total democracy as we did with features.spanel.io allowing users to build SPanel by voting) - From regional hosting providers to global all-in-one SaS hosting solutions"
     },
     {
         "speaker": "Dan Dascalescu",
@@ -228,7 +228,7 @@
         "title": "Building a Business Website",
         "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-7/building-a-business-website",
         "excerpt": "Small Business Website, a Modern Design for all the right reasons! - it will cover 7 things every website should have (clean design, clear message, calls to action, privacy, responsive design, current content, and website maintenance). At the end, I introduce the idea of website accessibility.",
-        "description": "Small Business Website, a Modern Design for all the right reasons! - it will cover 7 things every website should have (clean design, clear message, calls to action, privacy, responsive design, current content, and website maintenance). At the end, I introduce the idea of website accessibility.  "
+        "description": "Small Business Website, a Modern Design for all the right reasons! - it will cover 7 things every website should have (clean design, clear message, calls to action, privacy, responsive design, current content, and website maintenance). At the end, I introduce the idea of website accessibility."
     },
     {
         "speaker": "Elisa Foltyn",
@@ -236,5 +236,12 @@
         "url": "https://jdayusa.com//sessions/session-2023/april-22/slot-2-7/yootheme-pro-workshop",
         "excerpt": "Full Yootheme Pro Workshop Session.",
         "description": "Full Yootheme Pro Workshop Session. Installation, setting up the theme, Sections, Rows, Elements, Dynamic Contents, Extensions. If someone wants to \"click along\" it requires a Yootheme License."
+    },
+    {
+        "speaker": "Alley Cat",
+        "title": "Sunday Funday Outing",
+        "url": "https://jdayusa.com//sessions/session-2023/april-23/slot-3-1/sunday-funday-outing",
+        "excerpt": "Meet us for a local art, history, cultural, non-traditional, creative scavenger hunt. Registration will be available shortly.",
+        "description": "Meet us for a local art, history, cultural, non-traditional, creative scavenger hunt. It is a walking tour of Austin lasting about 2 hours and covering about 2 miles.    Meet us for a local art, history, cultural, non-traditional, and creative scavenger hunt. It is a walking tour of Austin lasting about 2 hours and covering about 2 miles. Location: 1720 S. First Street, Austin TX What to bring: walking shoes, water bottle, cell phone Meetup right outside Roadhouse Relics Gallery near the “Greetings from Austin” sign. (Note you can take an uber to get to this location it is not walking distance from the hotel)"
     }
 ]

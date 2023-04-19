@@ -27,7 +27,7 @@ $('div.newsinfo').each((index, session) => {
 for (const session of sessions) {
   const response = await got(session.url).text();
   const $ = cheerio.load(response);
-  session.description = $('div[itemProp=articleBody] p').toArray().map(e => $(e).text()).join(' ');
+  session.description = $('div[itemProp=articleBody] p').toArray().map(e => $(e).text()).join(' ').trim();
 
   console.log(`# ${session.speaker} - [${session.title}](${session.url})\n\n${session.excerpt}\n\n${session.description}\n\n------\n\n`);
 }
