@@ -33,6 +33,10 @@ Demo for my [Adding AI-powered semantic search to your Joomla site](https://jday
    ```bash
    npm run ingest
 
+6. Run the proxy server
+   ```
+   npm run proxy
+
 You can now run semantic queries via the GraphQL IDE provided by the Weaviate Cloud Services console. You'll need to add your OpenAI API key in the Variables section:
 
 ![GraphiQL screenshot](GraphiQL-neartext.png)

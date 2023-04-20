@@ -8,15 +8,19 @@
   },
   "scripts": {
     "parse": "node $npm_package_config_nodeParams parse.ts",
-    "ingest": "node $npm_package_config_nodeParams ingest.ts"
+    "ingest": "node $npm_package_config_nodeParams ingest.ts",
+    "proxy": "node $npm_package_config_nodeParams proxy.ts"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "cheerio": "^1.0.0-rc.12",
     "cherio": "^1.0.0-rc.2",
     "dotenv": "^16.0.3",
+    "express": "^4.18.2",
     "got": "^12.6.0",
+    "http-proxy-middleware": "^2.0.6",
     "weaviate-ts-client": "^1.0.0"
   },
   "devDependencies": {
