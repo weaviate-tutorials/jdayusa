@@ -36,8 +36,7 @@ const sessionClass = {
       name: 'speaker',
       description: 'Name of the session speaker',
       dataType: [ 'string' ],
-      // Don't vectorize the speaker's name
-      moduleConfig: { 'text2vec-openai': { skip: true } }
+      // Vectorize the speaker's name as well, to allow for typos
     },
     {
       name: 'title',

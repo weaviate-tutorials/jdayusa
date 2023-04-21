@@ -9,7 +9,7 @@
   "scripts": {
     "parse": "node $npm_package_config_nodeParams parse.ts",
     "ingest": "node $npm_package_config_nodeParams ingest.ts",
-    "proxy": "node $npm_package_config_nodeParams proxy.ts"
+    "proxy": "node $npm_package_config_nodeParams search.ts"
   },
   "author": "",
   "license": "MIT",

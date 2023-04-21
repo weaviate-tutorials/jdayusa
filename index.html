@@ -829,114 +829,42 @@ by Open Source Matters, Inc.</p>
 			</div>
 </div></div></div><div></div></div>
 
-<style>
-	ninja-keys::part(actions-list) {
-		padding: 8px;
-	}
-	ninja-keys::part(ninja-action) {
-		border-radius: 8px;
-		border-left: none;
-	}
-
-	ninja-keys::part(ninja-selected) {
-		background: rgba(51, 51, 51, 0.1);
-	}
-
-
-	ninja-keys::part(ninja-input) {
-		color: #14b8a6;
-	}
-
-	ninja-keys::part(ninja-input)::placeholder {
-		color: #f4c13f;
-	}
-</style>
+<link rel="stylesheet" href="https://search-modal.msar.me/dist/style.css">
 <script type="module">
-	import { NinjaKeys } from 'https://unpkg.com/ninja-keys?module';
-</script>
-<ninja-keys placeholder="Semantic search..." hideBreadcrumbs>
-	<div slot="footer" style="padding: 1em; display: flex; justify-content: space-between;">
-		<div><img style="height: 2em" src="https://weaviate.io/assets/images/weaviate-nav-logo-light-532fdca50b4e5f974111eaf70c36080c.svg"></div>
-		<div>Powered by Weaviate</div>
-	</div>
-</ninja-keys>
-<script>
-	function debounce(fn, ms = 300) {
-		let timeoutId;
-		return function(...args) {
-			clearTimeout(timeoutId);
-			timeoutId = setTimeout(() => fn.apply(this, args), ms);
-		};
-	}
+	import SearchModal from 'https://unpkg.com/search-modal?module';
 
-	async function postQuery(query) {
-		const response = await fetch('https://weaviate-proxy.dandv.me/v1/graphql', {
-			method: 'POST',
-			headers: {
-				'Content-Type': 'application/json',
-			},
-			body: JSON.stringify({ query }), // body data type must match "Content-Type" header
-		});
-		return response.json();
-	}
+	const instance = SearchModal({
+		autoInit: true,
+		searchUrl: 'https://joomla-proxy.dandv.me',
+		searchKey: 'search',
+		// transform the data
+		transform: (data) => data.map(item => ({
+			title: `${item.speaker} - ${item.title}`,
+			// category: 'Session',
+			excerpt: item.description,
+			url: item.url,
+		})),
+		callback: (event, data) => {
+			console.log({ event, data });
+			// TODO
+			const footer = document.querySelector('.search-modal-footer');
+			footer.innerHTML = `
+<div style="padding: 1em; display: flex; justify-content: space-between;">
+  <div><img alt="Weaviate logo" style="height: 2em" src="https://weaviate.io/assets/images/weaviate-nav-logo-light-532fdca50b4e5f974111eaf70c36080c.svg"></div>
+  <div>Powered by Weaviate</div>
+</div>
+`;
 
-	async function search(string) {
-		// nearText: { concepts: ["${string}"] }
-		query = `
-{
-  Get {
-    Session(
-      hybrid: {
-	    query: "${string}"
-        alpha: 0.4
-	  }
-      limit: 2
-    ) {
-      speaker
-      title
-      description
-      url
-    }
-  }
-}
-`.replace(/\n */g, ' ');  // remove newlines and collapse whitespace
-
-		console.log('Searching...', query);
-		const response = await postQuery(query);
-		const sessions = response.data['Get']['Session'];
-		console.log(sessions);
-		console.log(sessions[0].title);
-		// ninja.data = [
-		// 	{
-		// 		id: 'Projects',
-		// 		title: sessions[0].description,
-		// 	},
-		// ];
-		let i = 0;
-		ninja.data = response.data['Get']['Session'].map(s => ({
-			id: i++,
-		 	title: s.description
-		}));
-		console.log(ninja.data)
-	}
-
-	const debouncedSearch = debounce(search);
-	const ninja = document.querySelector('ninja-keys');
-	ninja.data = [
-
-	];
-	ninja.addEventListener('change', (event) => {
-		debouncedSearch(event.detail.search);
-		// detail = {search: 'your search query', actions: Array<NinjaAction>}
-	})
-	ninja.addEventListener('selected', (event) => {
-		console.log('ninja on selected', event.detail);
-		// detail = {search: 'your search query', action: NinjaAction | undefined }
-		if (event.detail.action){
-			// perform API search for example
 		}
+	});
 
-	})
+	document.addEventListener("keydown", (event) => {
+		if ((event.ctrlKey || event.metaKey) && event.key === "k") {
+			event.preventDefault();
+			instance.open();
+		}
+	});
+
 </script>
 
 </body></html>
