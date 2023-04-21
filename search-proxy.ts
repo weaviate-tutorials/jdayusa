@@ -17,7 +17,6 @@ app.get('/', async function(req, res) {
 
     let query = req.query.search;
     console.info('Searching for:', query);
-    let limit = 5;
 
     const nearTextResult = await client.graphql
         .get()
@@ -34,6 +33,6 @@ app.get('/', async function(req, res) {
     res.json(nearTextResult.data['Get']['Session']);
 });
 
-let server = app.listen(PORT, function() {
+app.listen(PORT, function() {
     console.log(`Search server listening on port ${PORT}`);
 });
