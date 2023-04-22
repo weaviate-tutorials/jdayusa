@@ -26,10 +26,7 @@ app.get('/', async function(req, res) {
         .withLimit(5)
         .do();
 
-    // Log for debugging
-    console.log('nearText:', JSON.stringify(nearTextResult.data['Get']['Session'], null, 2));
-
-    // Return the sessions to the rendering engine
+    // Return the sessions as the JSON response
     res.json(nearTextResult.data['Get']['Session']);
 });
 
