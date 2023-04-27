@@ -2,7 +2,6 @@
 import { config } from './config';
 import * as cheerio from 'cheerio';
 import got from 'got';
-import weaviate, { WeaviateClient } from 'weaviate-ts-client';
 import { writeFileSync } from 'fs';
 
 const base = 'https://jdayusa.com/';

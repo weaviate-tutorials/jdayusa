@@ -20,9 +20,9 @@ try {
 
 // ===== Create the Session class for the schema =====
 const sessionClass = {
-  class: "Session",
-  description: "An JDayUSA 2023 session",
-  vectorizer: "text2vec-openai",
+  class: 'Session',
+  description: 'An JDayUSA 2023 session',
+  vectorizer: 'text2vec-openai',
   moduleConfig: {
     'text2vec-openai': {
       model: 'davinci',
@@ -56,7 +56,7 @@ const sessionClass = {
       moduleConfig: { 'text2vec-openai': { skip: true } },
     },
   ]
-}
+};
 
 async function importData() {
   const batchSize = 50;

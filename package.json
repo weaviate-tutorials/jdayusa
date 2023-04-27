@@ -9,7 +9,8 @@
   "scripts": {
     "parse": "node $npm_package_config_nodeParams parse.ts",
     "ingest": "node $npm_package_config_nodeParams ingest.ts",
-    "proxy": "node $npm_package_config_nodeParams search-proxy.ts"
+    "proxy": "node $npm_package_config_nodeParams search-proxy.ts",
+    "lint": "eslint . --ext .ts"
   },
   "author": "",
   "license": "MIT",
